@@ -1,16 +1,27 @@
-## Hi there 👋
+## 김재현 - Frontend Developer 👨‍💻
+사용자와 개발자 모두가 만족할 수 있는 코드를 작성합니다.
 
-<!--
-**harryk-im/harryk-im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 경력 사항 - Work Experience
+| 회사 | 포지션 | 기간 |
+|------|--------|------|
+| Toss | Frontend Developer Assistant (Interaction UX) | 2025.07 ~ 2025.09 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 프로젝트 - Project Experience
+| 프로젝트 | 유형 | 기간 |
+|---------|------|------|
+| 다독다독 v1 | 팀 프로젝트 | 2023.07 ~ 2024.08 |
+| 다독다독 v0 | 팀 프로젝트 | 2023.02 ~ 2023.06 |
+| 크립토 키캡 | 팀 프로젝트 | 2022.03 ~ 2022.10 |
+
+---
+
+### 학력 - Education
+| 교육 기관 | 교육 과정 | 기간 |
+|-----------|-----------|------|
+| 프로그래머스 데브코스 3기 | 프론트엔드  | 2022.10 ~ 2023.03 |
+| 원광대학교 | 컴퓨터소프트웨어공학과 | 2020.03 ~ 2023.02 |
+| 원광대학교 | 수학교육과 | 2017.03 ~ 2018.02 |

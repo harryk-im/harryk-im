@@ -1,4 +1,4 @@
-## 김재현 - Frontend Developer 👨‍💻
+## 김재현 - Frontend Developer
 사용자와 개발자 모두가 만족할 수 있는 코드를 작성합니다.
 
 <br />

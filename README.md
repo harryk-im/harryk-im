@@ -6,15 +6,17 @@
 ## 경력 사항 - Work Experience
 | 회사 | 포지션 | 기간 |
 |------|--------|------|
-| Toss | Frontend Developer Assistant (Interaction UX) | 2025.07 - 2025.09 |
+| toss | Frontend Developer Assistant (Interaction) | 2025.07 - 2025.09 |
 
 <br />
 
 ## 프로젝트 - Project Experience
 | 프로젝트 | 유형 | 기간 |
 |---------|------|------|
+| harryk-ds | 개인 프로젝트 | 2025.10 - 진행 중 |
 | 다독다독 v1 | 팀 프로젝트 | 2023.07 - 2024.08 |
 | 다독다독 v0 | 팀 프로젝트 | 2023.02 - 2023.06 |
+| Next.js13 플레이그라운드 | 개인 프로젝트 | 2023.02 - 2022.05 |
 | 크립토키캡 | 팀 프로젝트 | 2022.03 - 2022.10 |
 
 <br />

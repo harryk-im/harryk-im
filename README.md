@@ -21,7 +21,8 @@
 <br />
 
 ### 읽을 거리 - Posts
+- [[Next.js] 서버 컴포넌트에 대한 오해 (2)](https://hanyugeon.tistory.com/46)
 - [[테스트 코드] 어떻게 하면 효율적인 E2E를 작성할 수 있을까?](https://hanyugeon.tistory.com/45)
 - [[React] 많이 늦은 toss의 useFunnel 적용기](https://hanyugeon.tistory.com/44)
-- [[Next.js] 서버 컴포넌트에 대한 오해 (feat. harryk-ds)](https://hanyugeon.tistory.com/43)
+- [[Next.js] 서버 컴포넌트에 대한 오해 (feat. harryk-ds, 다독다독)](https://hanyugeon.tistory.com/43)
 - [[이미지 최적화] 02. Next/Image의 한계점, 그에 대한 대책](https://hanyugeon.tistory.com/38)

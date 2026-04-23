@@ -21,7 +21,8 @@
 <br />
 
 ### 읽을 거리 - Posts
-- [[AI] 역할별 AI Persona Harness 구축기](https://hanyugeon.tistory.com/47)
+- [[AI] 지속가능한 AI 개발 환경 구축하기](https://hanyugeon.tistory.com/48)
+- [[AI] 일관성이 보장된 AI 개발 환경 구축하기](https://hanyugeon.tistory.com/47)
 - [[Next.js] 서버 컴포넌트에 대한 오해 (2)](https://hanyugeon.tistory.com/46)
 - [[테스트 코드] 어떻게 하면 효율적인 E2E를 작성할 수 있을까?](https://hanyugeon.tistory.com/45)
 - [[React] 많이 늦은 toss의 useFunnel 적용기](https://hanyugeon.tistory.com/44)

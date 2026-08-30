@@ -21,6 +21,7 @@
 <br />
 
 ### 읽을 거리 - Posts
+- [[AI] 신뢰할 수 있는 AI 개발 환경 구축하기](https://hanyugeon.tistory.com/49)
 - [[AI] 지속가능한 AI 개발 환경 구축하기](https://hanyugeon.tistory.com/48)
 - [[AI] 일관성이 보장된 AI 개발 환경 구축하기](https://hanyugeon.tistory.com/47)
 - [[Next.js] 서버 컴포넌트에 대한 오해 (2)](https://hanyugeon.tistory.com/46)

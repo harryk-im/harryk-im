@@ -21,6 +21,7 @@
 <br />
 
 ### 읽을 거리 - Posts
+- [[UI/UX] 디자인 시스템 컬러 토큰 다시 만들기](https://hanyugeon.tistory.com/50)
 - [[AI] 신뢰할 수 있는 AI 개발 환경 구축하기](https://hanyugeon.tistory.com/49)
 - [[AI] 지속가능한 AI 개발 환경 구축하기](https://hanyugeon.tistory.com/48)
 - [[AI] 일관성이 보장된 AI 개발 환경 구축하기](https://hanyugeon.tistory.com/47)
